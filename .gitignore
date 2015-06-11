@@ -1,0 +1,6 @@
+/.idea/
+/.vagrant/
+
+provisioners/chef/berks-cookbooks
+
+go-agent.box
